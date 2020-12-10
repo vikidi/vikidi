@@ -1,7 +1,14 @@
 # Hello fellow coder 👋
-My name is Ville Saarinen and I a passionate programmer from Tampere, Finland.
+My name is Ville Saarinen and I am a passionate programmer from Tampere, Finland.
 
 ### Connect with me
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
+
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
+
+[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg" />][facebook]
+
+<br />
 
 ### My tools
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
@@ -21,6 +28,10 @@ My name is Ville Saarinen and I a passionate programmer from Tampere, Finland.
 [<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][postgresql]
 
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][docker]
+
+[facebook]: https://www.facebook.com/ville.saarinen.9
+[instagram]: https://www.instagram.com/vikidii/
+[linkedin]: https://www.linkedin.com/in/ville-saarinen/
 
 [vscode]: https://code.visualstudio.com/
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
