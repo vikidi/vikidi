@@ -41,6 +41,9 @@ My name is Ville Saarinen and I am a passionate programmer from Tampere, Finland
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#74](https://github.com/vikidi/TTLK-Website-Frontend/pull/74) in [vikidi/TTLK-Website-Frontend](https://github.com/vikidi/TTLK-Website-Frontend)
+2. ❗️ Opened issue [#1](https://github.com/vikidi/OhjTest-Shalom/issues/1) in [vikidi/OhjTest-Shalom](https://github.com/vikidi/OhjTest-Shalom)
+<!--END_SECTION:activity-->
 
 [facebook]: https://www.facebook.com/ville.saarinen.9
 [instagram]: https://www.instagram.com/vikidii/
