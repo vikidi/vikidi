@@ -33,6 +33,32 @@ My name is Ville Saarinen and I am a passionate programmer from Tampere, Finland
 
 ### Spotify Playing
 
+| Now Playing                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------ |
+| <a href="https://natemoo-re-fszw9qq8k.vercel.app/now-playing?open"><img src="https://natemoo-re-fszw9qq8k.vercel.app/now-playing" width="540" height="64" alt="Now Playing"></a> |
+
+
+<table>
+  <thead>
+    <tr>
+      <th>Top Tracks</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://natemoo-re-fszw9qq8k.vercel.app/top-tracks?i=1&open"><img src="https://natemoo-re-fszw9qq8k.vercel.app/top-tracks?i=1" width="540" height="64" alt="Now Playing"></a></td>
+    </tr>
+    <tr></tr> <!-- hide gray row -->
+    <tr>
+      <td><a href="https://natemoo-re-fszw9qq8k.vercel.app/top-tracks?i=2&open"><img src="https://natemoo-re-fszw9qq8k.vercel.app/top-tracks?i=2" width="540" height="64" alt="Now Playing"></a></td>
+    </tr>
+    <tr></tr> <!-- hide gray row -->
+    <tr>
+      <td><a href="https://natemoo-re-fszw9qq8k.vercel.app/top-tracks?i=3&open"><img src="https://natemoo-re-fszw9qq8k.vercel.app/top-tracks?i=3" width="540" height="64" alt="Now Playing"></a></td>
+    </tr>
+  </tbody>
+</table>
+
 ### GitHub Stats
 
 <!--START_SECTION:waka-->
@@ -41,9 +67,6 @@ My name is Ville Saarinen and I am a passionate programmer from Tampere, Finland
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#74](https://github.com/vikidi/TTLK-Website-Frontend/pull/74) in [vikidi/TTLK-Website-Frontend](https://github.com/vikidi/TTLK-Website-Frontend)
-2. ❗️ Opened issue [#1](https://github.com/vikidi/OhjTest-Shalom/issues/1) in [vikidi/OhjTest-Shalom](https://github.com/vikidi/OhjTest-Shalom)
-<!--END_SECTION:activity-->
 
 [facebook]: https://www.facebook.com/ville.saarinen.9
 [instagram]: https://www.instagram.com/vikidii/
