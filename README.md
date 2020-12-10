@@ -29,6 +29,19 @@ My name is Ville Saarinen and I am a passionate programmer from Tampere, Finland
 
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][docker]
 
+<br />
+
+### Spotify Playing
+
+### GitHub Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+### Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+
 [facebook]: https://www.facebook.com/ville.saarinen.9
 [instagram]: https://www.instagram.com/vikidii/
 [linkedin]: https://www.linkedin.com/in/ville-saarinen/
