@@ -70,7 +70,7 @@ My name is Ville Saarinen and I am a passionate programmer from Tampere, Finland
  > 
 > 📦 51.5 kB Used in Github's Storage 
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 11 Public Repositories 
  > 
