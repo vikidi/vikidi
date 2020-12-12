@@ -62,6 +62,77 @@ My name is Ville Saarinen and I am a passionate programmer from Tampere, Finland
 ### GitHub Stats
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 460 Contributions in the Year 2020
+ > 
+> 📦 51.5 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 11 Public Repositories 
+ > 
+> 🔑 3 Private Repositories  
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.93% 
+🌆 Daytime    139 commits    ██████████████░░░░░░░░░░░   57.2% 
+🌃 Evening    74 commits     ███████░░░░░░░░░░░░░░░░░░   30.45% 
+🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.41%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.05% 
+Tuesday      66 commits     ██████░░░░░░░░░░░░░░░░░░░   27.16% 
+Wednesday    44 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.11% 
+Thursday     35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.4% 
+Friday       27 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+Saturday     31 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.76% 
+Sunday       18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.41%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Helsinki
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               8 repos             ████████████████░░░░░░░░░   66.67% 
+C++                      3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/vikidi/vikidi/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 ### Recent GitHub Activity
