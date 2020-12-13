@@ -144,8 +144,8 @@ HTML                     1 repo              ██░░░░░░░░░�
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#74](https://github.com/vikidi/TTLK-Website-Frontend/pull/74) in [vikidi/TTLK-Website-Frontend](https://github.com/vikidi/TTLK-Website-Frontend)
-2. ❗️ Opened issue [#1](https://github.com/vikidi/OhjTest-Shalom/issues/1) in [vikidi/OhjTest-Shalom](https://github.com/vikidi/OhjTest-Shalom)
+1. 💪 Opened PR [#2](https://github.com/vikidi/Homepages/pull/2) in [vikidi/Homepages](https://github.com/vikidi/Homepages)
+2. 🎉 Merged PR [#1](https://github.com/vikidi/Homepages/pull/1) in [vikidi/Homepages](https://github.com/vikidi/Homepages)
 <!--END_SECTION:activity-->
 
 [facebook]: https://www.facebook.com/ville.saarinen.9
