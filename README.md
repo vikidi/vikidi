@@ -144,8 +144,8 @@ HTML                     1 repo              ██░░░░░░░░░�
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/vikidi/Homepages/pull/16) in [vikidi/Homepages](https://github.com/vikidi/Homepages)
-2. 🎉 Merged PR [#15](https://github.com/vikidi/Homepages/pull/15) in [vikidi/Homepages](https://github.com/vikidi/Homepages)
+1. 🎉 Merged PR [#19](https://github.com/vikidi/Homepages/pull/19) in [vikidi/Homepages](https://github.com/vikidi/Homepages)
+2. 🎉 Merged PR [#20](https://github.com/vikidi/Homepages/pull/20) in [vikidi/Homepages](https://github.com/vikidi/Homepages)
 <!--END_SECTION:activity-->
 
 [facebook]: https://www.facebook.com/ville.saarinen.9
