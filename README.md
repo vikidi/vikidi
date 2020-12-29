@@ -144,7 +144,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#70](https://github.com/vikidi/Homepages/issues/70) in [vikidi/Homepages](https://github.com/vikidi/Homepages)
+1. ❗️ Opened issue [#77](https://github.com/vikidi/Homepages/issues/77) in [vikidi/Homepages](https://github.com/vikidi/Homepages)
 2. 🗣 Commented on [#69](https://github.com/vikidi/Homepages/issues/69) in [vikidi/Homepages](https://github.com/vikidi/Homepages)
 <!--END_SECTION:activity-->
 
