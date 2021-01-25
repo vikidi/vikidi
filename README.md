@@ -66,9 +66,9 @@ My name is Ville Saarinen and I am a passionate programmer from Tampere, Finland
 
 **🐱 My Github Data** 
 
-> 🏆 11 Contributions in the Year 2021
+> 🏆 18 Contributions in the Year 2021
  > 
-> 📦 53.8 kB Used in Github's Storage 
+> 📦 54.4 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
