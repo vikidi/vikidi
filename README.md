@@ -105,17 +105,16 @@ Sunday       18 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Helsinki
 
 💬 Programming Languages: 
-JavaScript               5 hrs 44 mins       █████████████████████████   99.55% 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  5 hrs 46 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-homepages                5 hrs 46 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  5 hrs 46 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
