@@ -141,8 +141,8 @@ HTML                     2 repos             ███░░░░░░░░�
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#217](https://github.com/vikidi/Homepages/issues/217) in [vikidi/Homepages](https://github.com/vikidi/Homepages)
-2. ❗️ Opened issue [#216](https://github.com/vikidi/Homepages/issues/216) in [vikidi/Homepages](https://github.com/vikidi/Homepages)
+1. ❗️ Closed issue [#39](https://github.com/vikidi/Homepages/issues/39) in [vikidi/Homepages](https://github.com/vikidi/Homepages)
+2. ❗️ Closed issue [#40](https://github.com/vikidi/Homepages/issues/40) in [vikidi/Homepages](https://github.com/vikidi/Homepages)
 <!--END_SECTION:activity-->
 
 [facebook]: https://www.facebook.com/ville.saarinen.9
