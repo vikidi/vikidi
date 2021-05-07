@@ -62,13 +62,13 @@ My name is Ville Saarinen and I am a passionate programmer from Tampere, Finland
 ### GitHub Stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 106 Contributions in the Year 2021
  > 
-> 📦 57.5 kB Used in Github's Storage 
+> 📦 57.8 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
