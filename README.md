@@ -68,13 +68,13 @@ My name is Ville Saarinen and I am a passionate programmer from Tampere, Finland
 
 > 🏆 109 Contributions in the Year 2021
  > 
-> 📦 57.8 kB Used in Github's Storage 
+> 📦 48.4 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
 > 📜 11 Public Repositories 
  > 
-> 🔑 3 Private Repositories  
+> 🔑 0 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -123,9 +123,9 @@ Windows                  41 mins             ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               8 repos             ███████████████░░░░░░░░░░   61.54% 
-C++                      3 repos             █████░░░░░░░░░░░░░░░░░░░░   23.08% 
-HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38%
+JavaScript               5 repos             ████████████░░░░░░░░░░░░░   50.0% 
+C++                      3 repos             ███████░░░░░░░░░░░░░░░░░░   30.0% 
+HTML                     2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0%
 
 ```
 
