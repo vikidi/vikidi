@@ -66,7 +66,7 @@ My name is Ville Saarinen and I am a passionate programmer from Tampere, Finland
 
 **🐱 My Github Data** 
 
-> 🏆 120 Contributions in the Year 2021
+> 🏆 121 Contributions in the Year 2021
  > 
 > 📦 48.8 kB Used in Github's Storage 
  > 
@@ -105,16 +105,16 @@ Sunday       46 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Helsinki
 
 💬 Programming Languages: 
-JavaScript               1 hr 42 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 42 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-homepages                1 hr 42 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 42 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
