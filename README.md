@@ -68,7 +68,7 @@ My name is Ville Saarinen and I am a passionate programmer from Tampere, Finland
 
 > 🏆 121 Contributions in the Year 2021
  > 
-> 📦 48.8 kB Used in Github's Storage 
+> 📦 48.9 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -133,7 +133,7 @@ HTML                     2 repos             █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/vikidi/vikidi/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/07/2021
+ Last Updated on 09/07/2021
 <!--END_SECTION:waka-->
 
 ### Recent GitHub Activity
