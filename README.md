@@ -68,7 +68,7 @@ My name is Ville Saarinen and I am a passionate programmer from Tampere, Finland
 
 > 🏆 124 Contributions in the Year 2021
  > 
-> 📦 48.8 kB Used in GitHub's Storage 
+> 📦 48.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -105,16 +105,20 @@ Sunday       34 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Helsinki
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     1 hr 30 mins        ███████████░░░░░░░░░░░░░░   45.07% 
+JavaScript               1 hr 1 min          ███████░░░░░░░░░░░░░░░░░░   30.89% 
+Other                    35 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.46% 
+Docker                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.84% 
+Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.37%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 20 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+homepages                3 hrs 20 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 hrs 20 mins       █████████████████████████   100.0%
 
 ```
 
@@ -133,7 +137,7 @@ HTML                     2 repos             █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/vikidi/vikidi/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/10/2021
+ Last Updated on 20/10/2021
 <!--END_SECTION:waka-->
 
 ### Recent GitHub Activity
