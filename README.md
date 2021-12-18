@@ -105,21 +105,16 @@ Sunday       28 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Helsinki
 
 💬 Programming Languages: 
-JavaScript               36 mins             █████████████░░░░░░░░░░░░   54.49% 
-JSON                     18 mins             ███████░░░░░░░░░░░░░░░░░░   28.24% 
-Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   7.1% 
-Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.94% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.47%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 6 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-homepages                1 hr                ██████████████████████░░░   90.0% 
-nmksv                    6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 6 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -138,7 +133,7 @@ HTML                     2 repos             █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/vikidi/vikidi/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/12/2021
+ Last Updated on 18/12/2021
 <!--END_SECTION:waka-->
 
 ### Recent GitHub Activity
