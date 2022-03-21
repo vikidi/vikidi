@@ -68,7 +68,7 @@ My name is Ville Saarinen and I am a passionate programmer from Tampere, Finland
 
 > 🏆 0 Contributions in the Year 2022
  > 
-> 📦 49.6 kB Used in GitHub's Storage 
+> 📦 49.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -105,17 +105,16 @@ Sunday       28 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Helsinki
 
 💬 Programming Languages: 
-Other                    52 mins             █████████████████████████   100.0%
+Other                    33 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  52 mins             █████████████████████████   100.0%
+VS Code                  33 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Unknown Project          52 mins             █████████████████████████   100.0% 
-Script                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+Unknown Project          33 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  52 mins             █████████████████████████   100.0%
+Windows                  33 mins             █████████████████████████   100.0%
 
 ```
 
@@ -134,7 +133,7 @@ HTML                     2 repos             █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/vikidi/vikidi/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/03/2022 18:43:31 UTC
+ Last Updated on 21/03/2022 18:45:57 UTC
 <!--END_SECTION:waka-->
 
 ### Recent GitHub Activity
