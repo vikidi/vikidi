@@ -62,6 +62,8 @@ My name is Ville Saarinen and I am a passionate programmer from Tampere, Finland
 ### GitHub Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -133,7 +135,7 @@ HTML                     2 repos             █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/vikidi/vikidi/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/05/2022 18:48:01 UTC
+ Last Updated on 07/05/2022 18:46:04 UTC
 <!--END_SECTION:waka-->
 
 ### Recent GitHub Activity
