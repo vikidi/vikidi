@@ -62,7 +62,7 @@ My name is Ville Saarinen and I am a passionate programmer from Tampere, Finland
 ### GitHub Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-211%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -78,6 +78,48 @@ My name is Ville Saarinen and I am a passionate programmer from Tampere, Finland
  > 
 > 🔑 0 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+🌆 Daytime    20 commits     █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+🌃 Evening    69 commits     █████████████████░░░░░░░░   69.0% 
+🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.0%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       21 commits     █████░░░░░░░░░░░░░░░░░░░░   21.0% 
+Tuesday      6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.0% 
+Wednesday    7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.0% 
+Thursday     8 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.0% 
+Friday       8 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.0% 
+Saturday     22 commits     █████░░░░░░░░░░░░░░░░░░░░   22.0% 
+Sunday       28 commits     ███████░░░░░░░░░░░░░░░░░░   28.0%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Helsinki
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -93,7 +135,7 @@ HTML                     2 repos             █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/vikidi/vikidi/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2022 18:47:09 UTC
+ Last Updated on 05/09/2022 18:51:32 UTC
 <!--END_SECTION:waka-->
 
 ### Recent GitHub Activity
