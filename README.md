@@ -1,5 +1,5 @@
 # Hello fellow coder 👋
-My name is Ville Saarinen and I am a passionate programmer from Tampere, Finland.
+My name is Ville Saarinen and I am a passionate programmer from Helsinki, Finland.
 
 ### Connect with me
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
